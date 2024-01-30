@@ -45,7 +45,7 @@ What is the location of the most viewed boat?  <br>
 - Compute descriptive statistics for the clusters using the groupby() function and elaborate on the findings, along with suggesting potential next steps. 
 
 
-## Creating Data Dashboards in [Tableau](https://public.tableau.com/app/profile/hadeel.ghurab/viz/Boatsalesanalysis/).  
+## Creating Data Dashboards in [Tableau](https://public.tableau.com/app/profile/hadeel.ghurab/viz/Boatsalesanalysis/Boatsales).  
 - Define the use-case for the dashboard.  
 - Outline dashboard contents based on curated results of analysis.  
 - Create dashboard/storyboard in Tableau per the requirements in the project brief.  
